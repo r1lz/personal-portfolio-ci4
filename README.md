@@ -10,7 +10,7 @@
 
 ## Demo
     Link:
-    r1lz.tech | r1lz.tech/login
+    https://r1lz.tech | https://r1lz.tech/login
 
     Account login:
     Email: admin@admin.com - Password: admin 
