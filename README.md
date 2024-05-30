@@ -11,7 +11,7 @@
 ## Demo
     Link:
     https://r1lz.000webhostapp.com | https://r1lz.000webhostapp.com/login
-    https://r1lz.tech | https://r1lz.tech/login (NO SSL - But make sure to use https because base_url using https) 
+    http://r1lz.tech | http://r1lz.tech/login (NO SSL - But make sure to use http because base_url using http) 
 
     Account login:
     Email: admin@admin.com - Password: admin 
