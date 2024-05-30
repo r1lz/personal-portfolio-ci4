@@ -10,8 +10,8 @@
 
 ## Demo
     Link:
-    https://r1lz.tech | https://r1lz.tech/login
     https://r1lz.000webhostapp.com | https://r1lz.000webhostapp.com/login
+    https://r1lz.tech | https://r1lz.tech/login (NO SSL)
 
     Account login:
     Email: admin@admin.com - Password: admin 
